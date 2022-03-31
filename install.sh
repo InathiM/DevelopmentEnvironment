@@ -8,16 +8,17 @@
 brew install python
 brew install tree
 
-# Install MacOS Applications
+#Utilities 
 brew install spotify
-brew install discord
 brew install google-drive
 brew install microsoft-outlook 
-brew install git
-
-
-brew install --cask slack
 brew install --cask adobe-acrobat-reader 
 
-# Install Source Code Pro Font
-brew tap homebrew/cask-fonts
+#IDE Tools
+brew install --cask visual-studio-code
+brew install git
+
+#Communication Tools
+brew install --cask slack
+brew install discord
+
