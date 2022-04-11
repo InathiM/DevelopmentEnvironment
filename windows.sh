@@ -1,0 +1,10 @@
+winget install --id Microsoft.VisualStudio.2022.Community -e --source winget --accept-source-agreements
+winget install --id Microsoft.SQLServerManagementStudio -e --source winget --accept-source-agreements
+winget install --id Oracle.MySQL -e --source winget --accept-source-agreements
+winget install --id Microsoft.PowerBI -e --source winget --accept-source-agreements
+winget install --id Microsoft.dotnet -e --source winget --accept-source-agreements
+winget install --id Git.Git -e --source winget --accept-source-agreements
+winget install --id DaxStudio.DaxStudio -e --source winget --accept-source-agreements
+winget install --id Notepad++.Notepad++ -e --source winget --accept-source-agreements 
+winget install --id Microsoft.dotnet -e --source winget --accept-source-agreements 
+winget install --id SlackTechnologies.Slack -e --source winget --accept-source-agreements
